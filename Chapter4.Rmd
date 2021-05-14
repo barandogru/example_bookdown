@@ -1,0 +1,8 @@
+# Appendices {-}
+This is the Appendices chapter.
+
+## About the Author {-}
+My name is Baran Dogru and I am a senior Industrial Engineering student at Bogazici University, Istanbul/Turkey. You can contact me via my [LinkedIn][mylinkedin] page.
+
+
+[mylinkedin]: https://www.linkedin.com/in/barandogru/ 

@@ -1,0 +1,22 @@
+bookdown::gitbook:
+    config:
+      toc:
+        collapse: none
+        scroll_highlight: yes
+        before: |
+          <li><a href=index.html>EXAMPLE BOOK TEMPLATE</a></li>
+        after: null
+      toolbar:
+        position: fixed
+      edit : null
+      download: [["book.pdf", "PDF"], ["book.epub", "EPUB"]]
+      search: yes
+      fontsettings:
+        theme: white
+        family: sans
+        size: 2
+      sharing: null
+      info: no
+bookdown::pdf_book: default
+bookdown::epub_book: default
+
